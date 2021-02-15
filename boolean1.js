@@ -17,6 +17,5 @@ console.log(res8)
 let res9 = !res8 // false because NOT true
 console.log(res9)
 let res10 =
-  (res1 && res2) || (res3 && res4) || (res5 && res6) || (res7 && res8 && res9)
-// true because false OR true OR false OR false
+  (res1 && res2) || (res3 && res4) || (res5 && res6) || (res7 && res8 && res9) // true because false OR true OR false OR false
 console.log(res10)
