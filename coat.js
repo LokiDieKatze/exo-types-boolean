@@ -3,7 +3,6 @@ let isWindy = false
 let temperature = 15
 
 
-
 if (isRainy || isWindy || temperature <= 12) {
   console.log('Mettez votre manteau')
 } else {

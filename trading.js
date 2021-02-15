@@ -5,4 +5,6 @@ if (price < 39000) {
 else if (price >= 39000 && price <= 45000) {
   console.log('Do nothing')
 }
-else { console.log('Sell your Bitcoin') }
+else {
+  console.log('Sell your Bitcoin')
+}

@@ -1,4 +1,4 @@
-let res1 = (true && false) || (false && true) //false
+let res1 = (true && false) || (false && true) // false
 console.log(res1)
 let res2 = 10 > 11 && 11 > 10 // false
 console.log(res2)
